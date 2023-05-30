@@ -1,1 +1,1 @@
-I am a physical geographer with a focus on geographic information systems, remote sensing and GIS based models of environmental processes. As scientist, it is my aim to use innovative methods of (geo) data analysis to better understand complex natural or coupled social-ecological systems. Final goal is to contribute to decision making for sustainable development. 
+
